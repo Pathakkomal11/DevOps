@@ -1,2 +1,2 @@
 # DevOps
-DevOps assigment from TudeDude
+DevOps assignment from TudeDude.
